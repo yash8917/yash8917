@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash8917&label=Profile%20views&color=0e75b6&style=flat" alt="yash8917" /> </p>
+<p align="left"><h2> <img src="https://komarev.com/ghpvc/?username=yash8917&label=Profile%20views&color=0e75b6&style=flat" alt="yash8917" /></h2> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash8917" alt="yash8917" /></a> </p>
 
