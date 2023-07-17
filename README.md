@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **yash8917gupta@gmail.com**
 
-![Snake animation](https://github.com/MonalikaPatnaik/MonalikaPatnaik/blob/output/github-contribution-grid-snake.svg)
  
 
 <h3 align="left">Connect with me:</h3>
