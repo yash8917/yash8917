@@ -13,9 +13,6 @@
 
 - 📫 How to reach me **yash8917gupta@gmail.com**
 
-![Snake animation](https://github.com/MonalikaPatnaik/MonalikaPatnaik/blob/output/github-contribution-grid-snake.svg)
- 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yashgup33031112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashgup33031112" height="30" width="40" /></a>
@@ -45,9 +42,4 @@ While several of my projects were created satirically to capture my thoughts on 
 <h2>Why do you make?</h2>
 <p>Working on things makes me happy. Whether it’s a personal project or an assignment or anything else, I always get a strong sense of satisfaction from finishing a project. Moreover, personal projects are a fun way for me to express my thoughts about the world around me. I’ve never been the best with words and I like to be able to use other mediums to communicate those ideas.</p>
  
-
-- **Weekly Commitment:** Approximately 40 hours per week, ensuring consistent progress and adherence to the established timeline.
-- **Progress Reporting:** Weekly progress reports will be shared with mentors, detailing completed tasks, challenges encountered, and plans for the upcoming week. Regular communication via email and Slack channels will facilitate ongoing feedback and support.
-- **Post GSoC Plans:** Beyond GSoC, I am committed to continuing my contributions to Sugar Labs, actively maintaining and enhancing the developed tool based on user feedback and evolving technological advancements. Additionally, I intend to explore opportunities for collaboration with other open-source projects and initiatives aligned with the mission and values of Sugar Labs.
-
   
